@@ -50,8 +50,6 @@ body {
 }
 
 #pusheen {
-    width: 35%;
+    width: min(35%, 120px);
     height: auto;
-    max-width: 100%;
-    object-fit: contain;
 }
